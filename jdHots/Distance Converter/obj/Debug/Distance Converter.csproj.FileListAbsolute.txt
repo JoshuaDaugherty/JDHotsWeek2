@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\JDHots\jdHots\Distance Converter\bin\Debug\Distance Converter.exe.config
+C:\Users\janic\Downloads\JDHots\jdHots\Distance Converter\bin\Debug\Distance Converter.exe
+C:\Users\janic\Downloads\JDHots\jdHots\Distance Converter\bin\Debug\Distance Converter.pdb
+C:\Users\janic\Downloads\JDHots\jdHots\Distance Converter\obj\Debug\Distance Converter.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\JDHots\jdHots\Distance Converter\obj\Debug\Distance_Converter.frmDistanceConverter.resources
+C:\Users\janic\Downloads\JDHots\jdHots\Distance Converter\obj\Debug\Distance_Converter.Properties.Resources.resources
+C:\Users\janic\Downloads\JDHots\jdHots\Distance Converter\obj\Debug\Distance Converter.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\JDHots\jdHots\Distance Converter\obj\Debug\Distance Converter.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\JDHots\jdHots\Distance Converter\obj\Debug\Distance Converter.exe
+C:\Users\janic\Downloads\JDHots\jdHots\Distance Converter\obj\Debug\Distance Converter.pdb

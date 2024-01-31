@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\JDHots\jdHots\GPA\bin\Debug\GPA.exe.config
+C:\Users\janic\Downloads\JDHots\jdHots\GPA\bin\Debug\GPA.exe
+C:\Users\janic\Downloads\JDHots\jdHots\GPA\bin\Debug\GPA.pdb
+C:\Users\janic\Downloads\JDHots\jdHots\GPA\obj\Debug\GPA.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\JDHots\jdHots\GPA\obj\Debug\GPA.frmGPA.resources
+C:\Users\janic\Downloads\JDHots\jdHots\GPA\obj\Debug\GPA.Properties.Resources.resources
+C:\Users\janic\Downloads\JDHots\jdHots\GPA\obj\Debug\GPA.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\JDHots\jdHots\GPA\obj\Debug\GPA.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\JDHots\jdHots\GPA\obj\Debug\GPA.exe
+C:\Users\janic\Downloads\JDHots\jdHots\GPA\obj\Debug\GPA.pdb

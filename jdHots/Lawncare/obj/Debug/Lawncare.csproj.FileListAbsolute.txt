@@ -1,0 +1,10 @@
+C:\Users\janic\Downloads\JDHots\jdHots\Lawncare\bin\Debug\Lawncare.exe.config
+C:\Users\janic\Downloads\JDHots\jdHots\Lawncare\bin\Debug\Lawncare.exe
+C:\Users\janic\Downloads\JDHots\jdHots\Lawncare\bin\Debug\Lawncare.pdb
+C:\Users\janic\Downloads\JDHots\jdHots\Lawncare\obj\Debug\Lawncare.csproj.AssemblyReference.cache
+C:\Users\janic\Downloads\JDHots\jdHots\Lawncare\obj\Debug\Lawncare.frmLawncare.resources
+C:\Users\janic\Downloads\JDHots\jdHots\Lawncare\obj\Debug\Lawncare.Properties.Resources.resources
+C:\Users\janic\Downloads\JDHots\jdHots\Lawncare\obj\Debug\Lawncare.csproj.GenerateResource.cache
+C:\Users\janic\Downloads\JDHots\jdHots\Lawncare\obj\Debug\Lawncare.csproj.CoreCompileInputs.cache
+C:\Users\janic\Downloads\JDHots\jdHots\Lawncare\obj\Debug\Lawncare.exe
+C:\Users\janic\Downloads\JDHots\jdHots\Lawncare\obj\Debug\Lawncare.pdb
